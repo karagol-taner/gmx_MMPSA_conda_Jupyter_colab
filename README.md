@@ -21,7 +21,7 @@ Google Colab compatibility
 - Mount Google Drive or upload your files
 - Set up GMX_MMPBSA
 - Run energy decomposition
-- Export results to your local system and run gmx_MMPBSA_ana
+- Export results to your local system (with GUI) and run gmx_MMPBSA_ana
 
 Using MPI parallelism, this workflow can reduce computation times by 2–8× (depending on system size and HPC specs).
 
