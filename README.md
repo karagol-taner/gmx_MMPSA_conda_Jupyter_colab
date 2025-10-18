@@ -1,6 +1,4 @@
-# Codes for GMX_MMPBSA on Colab & HPC/Jupyter
-
-## (Molecular Mechanics Poisson-Boltzmann Surface Area on Cloud Computing)
+# Codes for GMX_MMPBSA on Colab & HPC/Jupyter (Molecular Mechanics Poisson-Boltzmann Surface Area on Cloud Computing)
 
 A workflow/notebook for running GMX_MMPBSA calculations efficiently on High-Performance Computing (HPC) systems and Jupyter/Google Colab — including support for MPI parallel mode and post-analysis code.
 We significantly reduce simulation time and simplify free energy calculations (MM/PBSA and MM/GBSA) for GROMACS trajectories. 
