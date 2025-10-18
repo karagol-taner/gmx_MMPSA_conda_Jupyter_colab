@@ -21,6 +21,7 @@ Google Colab compatibility
 Using MPI parallelism, this workflow can reduce computation times by 2–8× (depending on system size and HPC specs).
 
 If you use this workflow in your research, please cite for gmx_MMPBSA:
+
 Valdés-Tresanco et al. (2021). gmx_MMPBSA: A New Tool to Perform End-State Free Energy Calculations with GROMACS. J. Chem. Theory Comput. 17, 6281–6291.
 
 Also you can consider citing our Benchmarking analysis:
