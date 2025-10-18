@@ -10,7 +10,9 @@ This repository has:
 
 Automated Colab/HPC job submission scripts
 
-MPI support
+MPI support 
+
+Also includes experimental CUDA support codes
 
 Google Colab compatibility 
 
